@@ -1,3 +1,3 @@
 # Swift5Timer1-training
 iOS Boot Camp　Swift5Timer1  
-・Timer(),for文,ボタン無効化について
+・クラスとは,Timerクラスの宣言の仕方,IBOutlet,for文,ボタン有効化無効化について
